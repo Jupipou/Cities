@@ -1,0 +1,1707 @@
+[
+
+    {
+        "city": "Tunis",  
+        "state": "Tunis", 
+        "population": "638845"
+    }, 
+    {
+        "city": "Sidi Hassine",  
+        "state": "Tunis", 
+        "population": "109690"
+    },
+    {
+        "city": "La Marsa",  
+        "state": "Tunis", 
+        "population": "92987"
+    },
+    {
+        "city": "Le Kram",  
+        "state": "Tunis", 
+        "population": "74132"
+    },
+    {
+        "city": "Le Bardo",  
+        "state": "Tunis", 
+        "population": "71961"
+    },
+    {
+        "city": "La Goulette",  
+        "state": "Tunis", 
+        "population": "45711"
+    },
+    {
+        "city": "Carthage",  
+        "state": "Tunis", 
+        "population": "17010"
+    },
+    {
+        "city": "Sidi Bou Said",  
+        "state": "Tunis", 
+        "population": "5911"
+    },
+    {
+        "city": "El Fahs",  
+        "state": "Tunis", 
+        "population": "23556"
+    },
+
+
+    {
+        "city": "Sfax",  
+        "state": "Sfax", 
+        "population": "272801"
+    }, 
+    {
+        "city": "Saklet Ezzit",  
+        "state": "Sfax", 
+        "population": "53243"
+    }, 
+    {
+        "city": "Saklet Eddaier",  
+        "state": "Sfax", 
+        "population": "45767"
+    }, 
+    {
+        "city": "El Ain",  
+        "state": "Sfax", 
+        "population": "43337"
+    }, 
+    {
+        "city": "Gremda",  
+        "state": "Sfax", 
+        "population": "40858"
+    }, 
+    {
+        "city": "Ouabed Khazanet",  
+        "state": "Sfax", 
+        "population": "34944"
+    }, 
+    {
+        "city": "Thyna",  
+        "state": "Sfax", 
+        "population": "33419"
+    }, 
+    {
+        "city": "El Amra",  
+        "state": "Sfax", 
+        "population": "30599"
+    }, 
+    {
+        "city": "Chihia",  
+        "state": "Sfax", 
+        "population": "26300"
+    }, 
+    {
+        "city": "Nadhour-Sidi Ali Ben Abed",  
+        "state": "Sfax", 
+        "population": "20855"
+    }, 
+    {
+        "city": "Hadjeb",  
+        "state": "Sfax", 
+        "population": "19455"
+    }, 
+    {
+        "city": "Hazeg Ellouza",  
+        "state": "Sfax", 
+        "population": "18914"
+    }, 
+    {
+        "city": "Aachech-Aouadna-Boujarbou-Majel Draj",  
+        "state": "Sfax", 
+        "population": "17804"
+    }, 
+    {
+        "city": "Ennasr",  
+        "state": "Sfax", 
+        "population": "16976"
+    }, 
+    {
+        "city": "Mahres",  
+        "state": "Sfax", 
+        "population": "15878"
+    }, 
+    {
+        "city": "Kerkennah",  
+        "state": "Sfax", 
+        "population": "15501"
+    }, 
+    {
+        "city": "Skhira",  
+        "state": "Sfax", 
+        "population": "11912"
+    }, 
+    {
+        "city": "Agareb",  
+        "state": "Sfax", 
+        "population": "11513"
+    }, 
+    {
+        "city": "El Hencha",  
+        "state": "Sfax", 
+        "population": "7575"
+    }, 
+    {
+        "city": "Jebiniana",  
+        "state": "Sfax", 
+        "population": "7190"
+    }, 
+    {
+        "city": "Bir Ali Ben Khalifa",  
+        "state": "Sfax", 
+        "population": "4905"
+    }, 
+    {
+        "city": "Graiba",  
+        "state": "Sfax", 
+        "population": "3251"
+    }, 
+    {
+        "city": "Menzel Chaker",  
+        "state": "Sfax", 
+        "population": "2278"
+    }, 
+
+
+    {
+        "city": "Sousse", 
+        "state": "Sousse", 
+        "population": "221530"
+},
+    {
+        "city": "M\u2019saken", 
+        "state": "Sousse", 
+        "population": "60165"
+},
+    {
+        "city": "Kaiala Kebira", 
+        "state": "Sousse", 
+        "population": "53323"
+},
+    {
+        "city": "Hammam Sousse", 
+        "state": "Sousse", 
+        "population": "42937"
+},
+    {
+        "city": "Kaiala Seghira", 
+        "state": "Sousse", 
+        "population": "34548"
+},
+    {
+        "city": "Akouda", 
+        "state": "Sousse", 
+        "population": "27200"
+},
+    {
+        "city": "Zaouiet Sousse", 
+        "state": "Sousse", 
+        "population": "20681"
+},
+    {
+        "city": "Grimet-Hicher", 
+        "state": "Sousse", 
+        "population": "18985"
+},
+    {
+        "city": "Ezzouhour", 
+        "state": "Sousse", 
+        "population": "17348"
+},
+    {
+        "city": "Messaadine", 
+        "state": "Sousse", 
+        "population": "12916"
+},
+    {
+        "city": "Ksibet Thrayet", 
+        "state": "Sousse", 
+        "population": "11623"
+},
+    {
+        "city": "Enfida", 
+        "state": "Sousse", 
+        "population": "10990"
+},
+    {
+        "city": "Sidi Bou ali", 
+        "state": "Sousse", 
+        "population": "10282"
+},
+    {
+        "city": "Bouficha", 
+        "state": "Sousse", 
+        "population": "9931"
+},
+    {
+        "city": "Hergia", 
+        "state": "Sousse", 
+        "population": "7419"
+},
+    {
+        "city": "Chott Meriem", 
+        "state": "Sousse", 
+        "population": "7294"
+},
+    {
+        "city": "Kondar", 
+        "state": "Sousse", 
+        "population": "3804"
+},
+    {
+        "city": "Sidi El Hani", 
+        "state": "Sousse", 
+        "population": "2706"
+},
+
+
+{
+        "city": "Gabes", 
+        "state": "Gabes", 
+        "population": "130984"
+},
+    {
+        "city": "El Hamma", 
+        "state": "Gabes", 
+        "population": "41607"
+},    
+    {
+        "city": "Ghannouch", 
+        "state": "Gabes", 
+        "population": "28051"
+},
+    {
+        "city": "Teboulbou", 
+        "state": "Gabes", 
+        "population": "21727"
+},
+    {
+        "city": "Habib Thameur Bouatouch", 
+        "state": "Gabes", 
+        "population": "19320"
+},
+    {
+        "city": "Chenini Nahal", 
+        "state": "Gabes", 
+        "population": "14803"
+},
+    {
+        "city": "Kettana", 
+        "state": "Gabes", 
+        "population": "13310"
+},
+    {
+        "city": "Bouchemma", 
+        "state": "Gabes", 
+        "population": "12181"
+},
+    {
+        "city": "Mareth", 
+        "state": "Gabes", 
+        "population": "11678"
+},
+    {
+        "city": "Metouia", 
+        "state": "Gabes", 
+        "population": "10716"
+},
+    {
+        "city": "Dkhilet Toujane", 
+        "state": "Gabes", 
+        "population": "10277"
+},
+    {
+        "city": "Menzel El Habib", 
+        "state": "Gabes", 
+        "population": "10148"
+},
+    {
+        "city": "Oudhref", 
+        "state": "Gabes", 
+        "population": "9932"
+},
+    {
+        "city": "Nouvelle Matmata", 
+        "state": "Gabes", 
+        "population": "7526"
+},
+    {
+        "city": "Zarat", 
+        "state": "Gabes", 
+        "population": "5627"
+},
+
+    {
+        "city": "Matmata", 
+        "state": "Gabes", 
+        "population": "1847"
+},
+
+{
+        "city": "Kairouan", 
+        "state": "Kairouan", 
+        "population": "139070"
+},
+    {
+        "city": "Sisseb-Driaat", 
+        "state": "Kairouan", 
+        "population": "31716"
+},
+    {
+        "city": "Raqqada", 
+        "state": "Kairouan", 
+        "population": "24244"
+},
+    {
+        "city": "Abida", 
+        "state": "Kairouan", 
+        "population": "15033"
+},
+    {
+        "city": "Ain El Beidha", 
+        "state": "Kairouan", 
+        "population": "12956"
+},
+    {
+        "city": "Chaouachi", 
+        "state": "Kairouan", 
+        "population": "11440"
+},
+    {
+        "city": "Hajeb El Ayoun", 
+        "state": "Kairouan", 
+        "population": "10621"
+},
+    {
+        "city": "Chraitia-Ksour", 
+        "state": "Kairouan", 
+        "population": "10412"
+},
+    {
+        "city": "Jhina", 
+        "state": "Kairouan", 
+        "population": "9262"
+},
+    {
+        "city": "Oueslatia", 
+        "state": "Kairouan", 
+        "population": "9006"
+},
+    {
+        "city": "Haffouz", 
+        "state": "Kairouan", 
+        "population": "8429"
+},
+    {
+        "city": "Sbikha", 
+        "state": "Kairouan", 
+        "population": "8036"
+},
+    {
+        "city": "Bou Hajla", 
+        "state": "Kairouan", 
+        "population": "7828"
+},
+    {
+        "city": "Nasrallah", 
+        "state": "Kairouan", 
+        "population": "5012"
+},
+    {
+        "city": "Menzel Mehiri", 
+        "state": "Kairouan", 
+        "population": "3870"
+},
+    {
+        "city": "El Alaa", 
+        "state": "Kairouan", 
+        "population": "3276"
+},
+    {
+        "city": "Chebika", 
+        "state": "Kairouan", 
+        "population": "2921"
+},
+    {
+        "city": "Ain Djeloula", 
+        "state": "Kairouan", 
+        "population": "1757"
+},
+    {
+        "city": "Echrarda", 
+        "state": "Kairouan", 
+        "population": "1705"
+},
+
+{
+        "city": "Bizerte", 
+        "state": "Bizerte", 
+        "population": "136917"
+},
+    {
+        "city": "Menzel Bourguiba", 
+        "state": "Bizerte", 
+        "population": "54536"
+},
+    {
+        "city": "Mateur", 
+        "state": "Bizerte", 
+        "population": "34010"
+},
+    {
+        "city": "Joumine", 
+        "state": "Bizerte", 
+        "population": "29029"
+},
+    {
+        "city": "Ras Jebel", 
+        "state": "Bizerte", 
+        "population": "28610"
+},
+    {
+        "city": "Tinja", 
+        "state": "Bizerte", 
+        "population": "21129"
+},
+    {
+        "city": "Utique", 
+        "state": "Bizerte", 
+        "population": "19922"
+},
+    {
+        "city": "Menzel Abderrahmane", 
+        "state": "Bizerte", 
+        "population": "19078"
+},
+    {
+        "city": "El Hachachna", 
+        "state": "Bizerte", 
+        "population": "18797"
+},
+    {
+        "city": "El Alia", 
+        "state": "Bizerte", 
+        "population": "18359"
+},
+    {
+        "city": "Metline", 
+        "state": "Bizerte", 
+        "population": "9904"
+},    
+    {
+        "city": "Raf Raf", 
+        "state": "Bizerte", 
+        "population": "9850"
+},
+    {
+        "city": "Sejnane", 
+        "state": "Bizerte", 
+        "population": "5645"
+},
+    {
+        "city": "Ghar El Melh", 
+        "state": "Bizerte", 
+        "population": "5345"
+},
+    {
+        "city": "Aousja", 
+        "state": "Bizerte", 
+        "population": "5126"
+},
+
+{
+        "city": "Gafsa", 
+        "state": "Gafsa", 
+        "population": "95242"
+},
+    {
+        "city": "Metlaoui", 
+        "state": "Gafsa", 
+        "population": "38129"
+},    
+    {
+        "city": "El Ksar", 
+        "state": "Gafsa", 
+        "population": "33729"
+},
+    {
+        "city": "Redeyef", 
+        "state": "Gafsa", 
+        "population": "25046"
+},
+    {
+        "city": "Moulares", 
+        "state": "Gafsa", 
+        "population": "21431"
+},
+    {
+        "city": "Zannouch", 
+        "state": "Gafsa", 
+        "population": "15259"
+},
+    {
+        "city": "Belkhir", 
+        "state": "Gafsa", 
+        "population": "14784"
+},
+    {
+        "city": "El Guettar", 
+        "state": "Gafsa", 
+        "population": "14088"
+},
+    {
+        "city": "Mdhilla", 
+        "state": "Gafsa", 
+        "population": "12814"
+},
+    {
+        "city": "Lela", 
+        "state": "Gafsa", 
+        "population": "10875"
+},
+    {
+        "city": "Sidi Aich", 
+        "state": "Gafsa", 
+        "population": "10084"
+},    {
+        "city": "Sened", 
+        "state": "Gafsa", 
+        "population": "9533"
+},    {
+        "city": "Sidi Boubaker", 
+        "state": "Gafsa", 
+        "population": "4124"
+},
+
+{
+        "city": "Nabeul", 
+        "state": "Nabeul", 
+        "population": "70437"
+},    {
+        "city": "Hammamet", 
+        "state": "Nabeul", 
+        "population": "73236"
+},    {
+        "city": "Kelibia", 
+        "state": "Nabeul", 
+        "population": "46856"
+},    {
+        "city": "Dar Chaabane", 
+        "state": "Nabeul", 
+        "population": "42140"
+},    {
+        "city": "Menzel Temime", 
+        "state": "Nabeul", 
+        "population": "39138"
+},    {
+        "city": "Korba", 
+        "state": "Nabeul", 
+        "population": "38902"
+},    {
+        "city": "Soliman", 
+        "state": "Nabeul", 
+        "population": "37749"
+},    {
+        "city": "Grombalia", 
+        "state": "Nabeul", 
+        "population": "24299"
+},    {
+        "city": "Fondouk Jedid-Seltene", 
+        "state": "Nabeul", 
+        "population": "23471"
+},    {
+        "city": "Takelsa", 
+        "state": "Nabeul", 
+        "population": "22151"
+},    {
+        "city": "Beni Khiar", 
+        "state": "Nabeul", 
+        "population": "21626"
+},    {
+        "city": "Menzel Bouzelfa", 
+        "state": "Nabeul", 
+        "population": "18851"
+},    {
+        "city": "Beni Khalled", 
+        "state": "Nabeul", 
+        "population": "15463"
+},    {
+        "city": "Tazougrane-Boukrim-Zaouiet El Mgaies", 
+        "state": "Nabeul", 
+        "population": "15322"
+},    {
+        "city": "Chrifet-Boucharray", 
+        "state": "Nabeul", 
+        "population": "12210"
+},    {
+        "city": "Bou Argoub", 
+        "state": "Nabeul", 
+        "population": "11990"
+},    {
+        "city": "El Haouaria", 
+        "state": "Nabeul", 
+        "population": "9508"
+},    {
+        "city": "Tazarka", 
+        "state": "Nabeul", 
+        "population": "9388"
+},    {
+        "city": "Hamma Ghezeze", 
+        "state": "Nabeul", 
+        "population": "9076"
+},    {
+        "city": "El Maamoura", 
+        "state": "Nabeul", 
+        "population": "8039"
+},    {
+        "city": "Zaouiet Djedidi", 
+        "state": "Nabeul", 
+        "population": "7862"
+},    {
+        "city": "Somaa", 
+        "state": "Nabeul", 
+        "population": "7017"
+},    {
+        "city": "Menzel Horr", 
+        "state": "Nabeul", 
+        "population": "5243"
+},    {
+        "city": "Azmour", 
+        "state": "Nabeul", 
+        "population": "5054"
+},    {
+        "city": "Dar Allouch", 
+        "state": "Nabeul", 
+        "population": "4558"
+},    {
+        "city": "El Mida", 
+        "state": "Nabeul", 
+        "population": "4155"
+},    {
+        "city": "Korbous", 
+        "state": "Nabeul", 
+        "population": "3532"
+},
+    {
+        "city": "Ariana", 
+        "state": "L\u2019Ariana", 
+        "population": "114486"
+},
+    {
+        "city": "Raoued", 
+        "state": "L\u2019Ariana", 
+        "population": "94691"
+},
+    {
+        "city": "Mnihla", 
+        "state": "L\u2019Ariana", 
+        "population": "89884"
+},
+    {
+        "city": "Ettadhamen", 
+        "state": "L\u2019Ariana", 
+        "population": "84312"
+},
+    {
+        "city": "Kalaat el-Andalous", 
+        "state": "L\u2019Ariana", 
+        "population": "18211"
+},
+    {
+        "city": "Sidi Thabet", 
+        "state": "L\u2019Ariana", 
+        "population": "11351"
+},
+
+{
+        "city": "Kasserine", 
+        "state": "Kasserine", 
+        "population": "83534"
+},
+    {
+        "city": "Ennour", 
+        "state": "Kasserine", 
+        "population": "40573"
+},
+    {
+        "city": "Feriana", 
+        "state": "Kasserine", 
+        "population": "29572"
+},
+    {
+        "city": "Sbeitla", 
+        "state": "Kasserine", 
+        "population": "24597"
+},
+    {
+        "city": "Chrayaa-Machrek Chams", 
+        "state": "Kasserine", 
+        "population": "23899"
+},
+    {
+        "city": "Ezzouhour", 
+        "state": "Kasserine", 
+        "population": "21819"
+},
+    {
+        "city": "Hassi El Ferid", 
+        "state": "Kasserine", 
+        "population": "19400"
+},
+    {
+        "city": "El Ayoun", 
+        "state": "Kasserine", 
+        "population": "19211"
+},
+    {
+        "city": "Thala", 
+        "state": "Kasserine", 
+        "population": "18230"
+},
+    {
+        "city": "Rakhmat", 
+        "state": "Kasserine", 
+        "population": "14958"
+},
+    {
+        "city": "Bouzguem", 
+        "state": "Kasserine", 
+        "population": "14579"
+},
+    {
+        "city": "Ain Khmaissia", 
+        "state": "Kasserine", 
+        "population": "13346"
+},
+    {
+        "city": "Khmouda", 
+        "state": "Kasserine", 
+        "population": "12889"
+},
+    {
+        "city": "Foussana", 
+        "state": "Kasserine", 
+        "population": "7703"
+},
+    {
+        "city": "Thelepte", 
+        "state": "Kasserine", 
+        "population": "6932"
+},
+    {
+        "city": "Sbiba", 
+        "state": "Kasserine", 
+        "population": "6504"
+},
+    {
+        "city": "Majel Bel Abbes", 
+        "state": "Kasserine", 
+        "population": "6471"
+},
+    {
+        "city": "Jedelienne", 
+        "state": "Kasserine", 
+        "population": "4352"
+},
+    {
+        "city": "Haidra", 
+        "state": "Kasserine", 
+        "population": "3451"
+},
+
+{
+        "city": "Monastir", 
+        "state": "Monastir", 
+        "population": "93306"
+},
+    {
+        "city": "Moknine", 
+        "state": "Monastir", 
+        "population": "57111"
+},
+    {
+        "city": "Jemmal", 
+        "state": "Monastir", 
+        "population": "50275"
+},
+    {
+        "city": "Ksar Hellal", 
+        "state": "Monastir", 
+        "population": "49376"
+},
+    {
+        "city": "Teboulba", 
+        "state": "Monastir", 
+        "population": "37485"
+},
+    {
+        "city": "Ouerdanine", 
+        "state": "Monastir", 
+        "population": "21814"
+},
+    {
+        "city": "Sahline Mootmar", 
+        "state": "Monastir", 
+        "population": "19013"
+},
+    {
+        "city": "Bekalta", 
+        "state": "Monastir", 
+        "population": "17850"
+},
+    {
+        "city": "Zeramdine", 
+        "state": "Monastir", 
+        "population": "16806"
+},
+    {
+        "city": "Bembla-Mnara", 
+        "state": "Monastir", 
+        "population": "16078"
+},
+    {
+        "city": "Sidi Jedidi", 
+        "state": "Monastir", 
+        "population": "14222"
+},
+    {
+        "city": "Bennane-Bodheur", 
+        "state": "Monastir", 
+        "population": "14128"
+},
+    {
+        "city": "Ksibet el-Mediouni", 
+        "state": "Monastir", 
+        "population": "13122"
+},
+    {
+        "city": "Sayada", 
+        "state": "Monastir", 
+        "population": "12962"
+},
+    {
+        "city": "Menzel Hayet", 
+        "state": "Monastir", 
+        "population": "12927"
+},
+    {
+        "city": "Menzel Ennour", 
+        "state": "Monastir", 
+        "population": "11772"
+},
+    {
+        "city": "Khniss", 
+        "state": "Monastir", 
+        "population": "11229"
+},
+    {
+        "city": "Beni Hassen", 
+        "state": "Monastir", 
+        "population": "8801"
+},
+    {
+        "city": "Menzel Kamel", 
+        "state": "Monastir", 
+        "population": "8432"
+},
+    {
+        "city": "Sidi Ameur-Mesjed-Aissa", 
+        "state": "Monastir", 
+        "population": "8404"
+},
+    {
+        "city": "Amiret Hajjaj", 
+        "state": "Monastir", 
+        "population": "8121"
+},
+    {
+        "city": "Touza", 
+        "state": "Monastir", 
+        "population": "7236"
+},
+    {
+        "city": "Zaoulet Kontoch", 
+        "state": "Monastir", 
+        "population": "6713"
+},
+    {
+        "city": "Amiret Touazra", 
+        "state": "Monastir", 
+        "population": "6261"
+},
+    {
+        "city": "Bouhjar", 
+        "state": "Monastir", 
+        "population": "6137"
+},
+    {
+        "city": "Lamta", 
+        "state": "Monastir", 
+        "population": "5790"
+},
+    {
+        "city": "Amiret El Fhoul", 
+        "state": "Monastir", 
+        "population": "5255"
+},
+    {
+        "city": "El Ghnada", 
+        "state": "Monastir", 
+        "population": "5100"
+},
+    {
+        "city": "El Masdour-Menzel Harb", 
+        "state": "Monastir", 
+        "population": "4705"
+},
+    {
+        "city": "Sidi Bennour", 
+        "state": "Monastir", 
+        "population": "4520"
+},
+    {
+        "city": "Cherahil", 
+        "state": "Monastir", 
+        "population": "4406"
+},
+    {
+        "city": "Menzel Fersi", 
+        "state": "Monastir", 
+        "population": "3603"
+},
+
+{
+        "city": "Tataouine", 
+        "state": "Tataouine", 
+        "population": "66924"
+},
+    {
+        "city": "Smir", 
+        "state": "Tataouine", 
+        "population": "14793"
+},
+    {
+        "city": "Ghomrassen", 
+        "state": "Tataouine", 
+        "population": "9568"
+},
+    {
+        "city": "Bir Lahmar", 
+        "state": "Tataouine", 
+        "population": "7955"
+},
+    {
+        "city": "Tataouine Sud", 
+        "state": "Tataouine", 
+        "population": "7543"
+},
+    {
+        "city": "Remada", 
+        "state": "Tataouine", 
+        "population": "6289"
+},
+    {
+        "city": "Dehiba", 
+        "state": "Tataouine", 
+        "population": "4295"
+},
+
+{
+        "city": "Medenine", 
+        "state": "Medenine", 
+        "population": "71406"
+},
+{
+    "city": "Djerba - Midoun", 
+    "state": "Medenine", 
+    "population": "63528"
+},
+{
+    "city": "Zarzis Nord", 
+    "state": "Medenine", 
+    "population": "30159"
+},
+{
+    "city": "Djerba - Ajim", 
+    "state": "Medenine", 
+    "population": "24294"
+},
+{
+    "city": "Boughrara", 
+    "state": "Medenine", 
+    "population": "6709"
+},
+{
+    "city": "Sidi Makhlouf", 
+    "state": "Medenine", 
+    "population": "3070"
+},
+{
+    "city": "Beni Khedache", 
+    "state": "Medenine", 
+    "population": "2930"
+},
+
+
+{
+        "city": "Beja", 
+        "state": "Beja", 
+        "population": "62303"
+},
+    {
+        "city": "Ouchtata-Jmila", 
+        "state": "Beja", 
+        "population": "21942"
+},
+    {
+        "city": "Medjez el-Bab", 
+        "state": "Beja", 
+        "population": "21953"
+},
+    {
+        "city": "Testour", 
+        "state": "Beja", 
+        "population": "13331"
+},
+    {
+        "city": "Teboursouk", 
+        "state": "Beja", 
+        "population": "11865"
+},
+    {
+        "city": "Thibar", 
+        "state": "Beja", 
+        "population": "11206"
+},
+    {
+        "city": "Sidi Ismail", 
+        "state": "Beja", 
+        "population": "9965"
+},
+    {
+        "city": "El Maagoula", 
+        "state": "Beja", 
+        "population": "7809"
+},    
+    {
+        "city": "Slouguia", 
+        "state": "Beja", 
+        "population": "7348"
+},
+    {
+        "city": "Nefza", 
+        "state": "Beja", 
+        "population": "7302"
+},
+    {
+        "city": "Amdoun", 
+        "state": "Beja", 
+        "population": "5204"
+},
+    {
+        "city": "Goubellat", 
+        "state": "Beja", 
+        "population": "4128"
+},
+
+{
+        "city": "Jendouba", 
+        "state": "Jendouba", 
+        "population": "45431"
+},
+    {
+        "city": "Balta-Bou Aouane", 
+        "state": "Jendouba", 
+        "population": "30268"
+},
+    {
+        "city": "Bou Salem", 
+        "state": "Jendouba", 
+        "population": "21638"
+},
+    {
+        "city": "Tabarka", 
+        "state": "Jendouba", 
+        "population": "19770"
+},
+    {
+        "city": "Ghardimaou", 
+        "state": "Jendouba", 
+        "population": "19495"
+},
+    {
+        "city": "Jouaouda", 
+        "state": "Jendouba", 
+        "population": "16739"
+},
+    {
+        "city": "Ain Sobh-Nadhour", 
+        "state": "Jendouba", 
+        "population": "15051"
+},
+    {
+        "city": "Kalaa-Maaden-Farksan", 
+        "state": "Jendouba", 
+        "population": "13377"
+},
+    {
+        "city": "Souk Sebt", 
+        "state": "Jendouba", 
+        "population": "13031"
+},
+    {
+        "city": "Khmairia", 
+        "state": "Jendouba", 
+        "population": "12173"
+},
+    {
+        "city": "Ain Draham", 
+        "state": "Jendouba", 
+        "population": "9659"
+},
+    {
+        "city": "Fernana", 
+        "state": "Jendouba", 
+        "population": "3831"
+},
+    {
+        "city": "Oued Meliz", 
+        "state": "Jendouba", 
+        "population": "2388"
+},
+    {
+        "city": "Beni M\u2019Tir", 
+        "state": "Jendouba", 
+        "population": "784"
+},
+
+{
+        "city": "El Kef", 
+        "state": "Kef", 
+        "population": "54690"
+},
+    {
+        "city": "Tajerouine", 
+        "state": "Kef", 
+        "population": "17530"
+},
+    {
+        "city": "Dahmani", 
+        "state": "Kef", 
+        "population": "12964"
+},
+    {
+        "city": "Zaafrana-Dir Kref", 
+        "state": "Kef", 
+        "population": "12830"
+},
+    {
+        "city": "Le Sers", 
+        "state": "Kef", 
+        "population": "12108"
+},
+    {
+        "city": "Jerissa", 
+        "state": "Kef", 
+        "population": "9807"
+},
+    {
+        "city": "Bohra", 
+        "state": "Kef", 
+        "population": "8168"
+},
+    {
+        "city": "Kalaat Senan", 
+        "state": "Kef", 
+        "population": "8145"
+},
+    {
+        "city": "Sakiet Sidi Youssef", 
+        "state": "Kef", 
+        "population": "6335"
+},
+    {
+        "city": "El Ksour", 
+        "state": "Kef", 
+        "population": "5852"
+},
+    {
+        "city": "El Marja", 
+        "state": "Kef", 
+        "population": "5472"
+},
+    {
+        "city": "Nebeur", 
+        "state": "Kef", 
+        "population": "3299"
+},
+    {
+        "city": "Kaliat Khasba", 
+        "state": "Kef", 
+        "population": "2558"
+},
+    {
+        "city": "Touiref", 
+        "state": "Kef", 
+        "population": "2178"
+},
+    {
+        "city": "Menzel Salem", 
+        "state": "Kef", 
+        "population": "1824"
+},
+
+{
+        "city": "Mahdia", 
+        "state": "Mahdia", 
+        "population": "51833"
+},
+    {
+        "city": "Ksour Essef", 
+        "state": "Mahdia", 
+        "population": "28842"
+},
+    {
+        "city": "Ouled Chamekh", 
+        "state": "Mahdia", 
+        "population": "23020"
+},
+    {
+        "city": "Chebba", 
+        "state": "Mahdia", 
+        "population": "22227"
+},
+    {
+        "city": "El Jem", 
+        "state": "Mahdia", 
+        "population": "21234"
+},
+    {
+        "city": "Sidi Zid-Awled Moulahem", 
+        "state": "Mahdia", 
+        "population": "21100"
+},
+    {
+        "city": "Tlelsa", 
+        "state": "Mahdia", 
+        "population": "16153"
+},
+    {
+        "city": "Hkaima", 
+        "state": "Mahdia", 
+        "population": "13776"
+},
+    {
+        "city": "Zelba", 
+        "state": "Mahdia", 
+        "population": "12021"
+},
+    {
+        "city": "Rejiche", 
+        "state": "Mahdia", 
+        "population": "10806"
+},
+    {
+        "city": "Sidi Alouane", 
+        "state": "Mahdia", 
+        "population": "7500"
+},
+    {
+        "city": "Kerker", 
+        "state": "Mahdia", 
+        "population": "7467"
+},
+    {
+        "city": "El Bradaa", 
+        "state": "Mahdia", 
+        "population": "7404"
+},
+    {
+        "city": "Mellouleche", 
+        "state": "Mahdia", 
+        "population": "6704"
+},
+    {
+        "city": "Chorbane", 
+        "state": "Mahdia", 
+        "population": "5700"
+},
+    {
+        "city": "Essouassi", 
+        "state": "Mahdia", 
+        "population": "5381"
+},
+    {
+        "city": "Bou Merdes", 
+        "state": "Mahdia", 
+        "population": "^4338"
+},
+    {
+        "city": "Hebira", 
+        "state": "Mahdia", 
+        "population": "3248"
+},
+
+{
+        "city": "Sidi Bouzid", 
+        "state": "Sidi Bouzid", 
+        "population": "48284"
+},
+    {
+        "city": "Essaida", 
+        "state": "Sidi Bouzid", 
+        "population": "23175"
+},
+    {
+        "city": "Faiedh Bennour", 
+        "state": "Sidi Bouzid", 
+        "population": "22221"
+},
+    {
+        "city": "Souk Jedid", 
+        "state": "Sidi Bouzid", 
+        "population": "21660"
+},
+    {
+        "city": "Lessouda", 
+        "state": "Sidi Bouzid", 
+        "population": "19451"
+},
+    {
+        "city": "Baten Ghzal", 
+        "state": "Sidi Bouzid", 
+        "population": "15507"
+},
+    {
+        "city": "Meknassy", 
+        "state": "Sidi Bouzid", 
+        "population": "14773"
+},
+    {
+        "city": "Regueb", 
+        "state": "Sidi Bouzid", 
+        "population": "11420"
+},
+    {
+        "city": "Mansoura", 
+        "state": "Sidi Bouzid", 
+        "population": "9658"
+},
+    {
+        "city": "Sidi Ali Ben Aoun", 
+        "state": "Sidi Bouzid", 
+        "population": "9297"
+},
+    {
+        "city": "Rahal", 
+        "state": "Sidi Bouzid", 
+        "population": "8399"
+},
+    {
+        "city": "Mazzouna", 
+        "state": "Sidi Bouzid", 
+        "population": "7390"
+},
+    {
+        "city": "Menzel Bouzaiane", 
+        "state": "Sidi Bouzid", 
+        "population": "7113"
+},
+    {
+        "city": "Bir el Hafey", 
+        "state": "Sidi Bouzid", 
+        "population": "6475"
+},
+    {
+        "city": "Jilma", 
+        "state": "Sidi Bouzid", 
+        "population": "5821"
+},
+    {
+        "city": "Cebbala Ouled Asker", 
+        "state": "Sidi Bouzid", 
+        "population": "3361"
+},
+    {
+        "city": "Ouled Haffouz", 
+        "state": "Sidi Bouzid", 
+        "population": "2494"
+},
+
+{
+        "city": "Tozeur", 
+        "state": "Tozeur", 
+        "population": "37365"
+},
+    {
+        "city": "Nefta", 
+        "state": "Tozeur", 
+        "population": "21654"
+},
+    {
+        "city": "Degache", 
+        "state": "Tozeur", 
+        "population": "7893"
+},
+    {
+        "city": "El Hamma du Jerid", 
+        "state": "Tozeur", 
+        "population": "6439"
+},
+    {
+        "city": "Hazoua", 
+        "state": "Tozeur", 
+        "population": "4700"
+},
+    {
+        "city": "Tamerza", 
+        "state": "Tozeur", 
+        "population": "2334"
+},
+
+{
+        "city": "Siliana", 
+        "state": "Siliana", 
+        "population": "31251"
+},
+    {
+        "city": "Sidi Morched", 
+        "state": "Siliana", 
+        "population": "14404"
+},
+    {
+        "city": "Makthar", 
+        "state": "Siliana", 
+        "population": "13542"
+},
+    {
+        "city": "Bou Arada", 
+        "state": "Siliana", 
+        "population": "13162"
+},
+    {
+        "city": "Gaifour", 
+        "state": "Siliana", 
+        "population": "10399"
+},
+    {
+        "city": "El Krib", 
+        "state": "Siliana", 
+        "population": "7841"
+},
+    {
+        "city": "Hbabsa", 
+        "state": "Siliana", 
+        "population": "7564"
+},
+    {
+        "city": "Bargou", 
+        "state": "Siliana", 
+        "population": "4916"
+},
+    {
+        "city": "Rouhia", 
+        "state": "Siliana", 
+        "population": "4675"
+},
+    {
+        "city": "Sidi Bou Rouis", 
+        "state": "Siliana", 
+        "population": "3258"
+},
+    {
+        "city": "El Aroussa", 
+        "state": "Siliana", 
+        "population": "2905"
+},
+    {
+        "city": "Kesra", 
+        "state": "Siliana", 
+        "population": "2602"
+},
+
+{
+        "city": "Kebili", 
+        "state": "Kebili", 
+        "population": "20623"
+},    
+    {
+        "city": "Souk Lahad", 
+        "state": "Kebili", 
+        "population": "18905"
+},    
+    {
+        "city": "Faouar", 
+        "state": "Kebili", 
+        "population": "15376"
+},    
+    {
+        "city": "Bechli-Blidet-Jerssin", 
+        "state": "Kebili", 
+        "population": "11803"
+},    
+    {
+        "city": "Bechri-Fatnassa", 
+        "state": "Kebili", 
+        "population": "8960"
+},    
+    {
+        "city": "El Golaa", 
+        "state": "Kebili", 
+        "population": "7912"
+},    
+    {
+        "city": "Jemna", 
+        "state": "Kebili", 
+        "population": "7194"
+},    
+    {
+        "city": "Rjim Maatoug", 
+        "state": "Kebili", 
+        "population": "4237"
+},    
+
+{
+        "city": "Zaghouan", 
+        "state": "Zaghouan", 
+        "population": "20798"
+},
+    {
+        "city": "Saouaf", 
+        "state": "Zaghouan", 
+        "population": "12681"
+},
+    {
+        "city": "El Amaiem", 
+        "state": "Zaghouan", 
+        "population": "11993"
+},
+    {
+        "city": "Zriba", 
+        "state": "Zaghouan", 
+        "population": "11819"
+},
+    {
+        "city": "Bir Mcherga", 
+        "state": "Zaghouan", 
+        "population": "8329"
+},
+    {
+        "city": "Nadhour", 
+        "state": "Zaghouan", 
+        "population": "7567"
+},
+    {
+        "city": "Djebel Oust", 
+        "state": "Zaghouan", 
+        "population": "5325"
+},
+
+{
+        "city": "Ben Arous", 
+        "state": "Ben Arous", 
+        "population": "88322"
+    }, 
+    {
+        "city": "El Mourouj", 
+        "state": "Ben Arous", 
+        "population": "104586"
+    }, 
+    {
+        "city": "Mohemadia", 
+        "state": "Ben Arous", 
+        "population": "66439"
+    }, 
+    {
+        "city": "Rades", 
+        "state": "Ben Arous", 
+        "population": "59794"
+    }, 
+    {
+        "city": "Fouchana", 
+        "state": "Ben Arous", 
+        "population": "46717"
+    }, 
+    {
+        "city": "Hammam Lif", 
+        "state": "Ben Arous", 
+        "population": "42518"
+    }, 
+    {
+        "city": "Bou Mhel el-Bassatine", 
+        "state": "Ben Arous", 
+        "population": "40101"
+    }, 
+    {
+        "city": "Ezzahra", 
+        "state": "Ben Arous", 
+        "population": "34962"
+    }, 
+    {
+        "city": "Hammam Chott", 
+        "state": "Ben Arous", 
+        "population": "31810"
+    }, 
+    {
+        "city": "Mornag", 
+        "state": "Ben Arous", 
+        "population": "30058"
+    },     
+    {
+        "city": "Naassen", 
+        "state": "Ben Arous", 
+        "population": "28151"
+    }, 
+    {
+        "city": "Mégrine", 
+        "state": "Ben Arous", 
+        "population": "26964"
+    }, 
+    {
+        "city": "Khalidia", 
+        "state": "Ben Arous", 
+        "population": "8470"
+    }, 
+
+    {
+        "city": "La Manouba", 
+        "state": "La Manouba", 
+        "population": "32029"
+    },
+    {
+        "city": "Oued Eillil", 
+        "state": "La Manouba", 
+        "population": "57851"
+    },
+    {
+        "city": "Tebourba", 
+        "state": "La Manouba", 
+        "population": "28660"
+    },
+    {
+        "city": "Den Den", 
+        "state": "La Manouba", 
+        "population": "26763"
+    },
+    {
+        "city": "Mornaguia", 
+        "state": "La Manouba", 
+        "population": "19834"
+    },
+    {
+        "city": "El Bassatine", 
+        "state": "La Manouba", 
+        "population": "13701"
+    },
+    {
+        "city": "Borj El Amri", 
+        "state": "La Manouba", 
+        "population": "6519"
+    },
+    {
+        "city": "El Batan", 
+        "state": "La Manouba", 
+        "population": "6453"
+    }
+]
